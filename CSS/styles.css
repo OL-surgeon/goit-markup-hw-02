@@ -1,0 +1,61 @@
+@import "modern-normalize";
+body {
+  font-family: "Roboto", sans-serif, "Raleway", sans-serif;
+  color: #434455;
+  background: #f4f4fd;
+}
+ul,
+ol {
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 16px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #404bbf;
+}
+
+a:active {
+  text-decoration: underline;
+}
+address {
+  color: #434455;
+  font-style: normal;
+}
+address:hover {
+  color: #404bbf;
+}
+button {
+  cursor: pointer;
+}
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+}
+p {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
