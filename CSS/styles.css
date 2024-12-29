@@ -22,6 +22,10 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
+.mail {
+  color: #434455;
+  font-style: normal;
+}
 address {
   color: #434455;
   font-style: normal;
