@@ -26,11 +26,15 @@ a:active {
   color: #434455;
   font-style: normal;
 }
-address {
+
+.mail:hover {
+  color: #404bbf;
+}
+.tel {
   color: #434455;
   font-style: normal;
 }
-address:hover {
+.tel:hover {
   color: #404bbf;
 }
 button {
