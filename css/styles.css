@@ -38,20 +38,6 @@ a:focus {
 .mail:active {
   color: #404bbf;
 }
-.tel {
-  color: #434455;
-  font-style: normal;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.tel:hover {
-  color: #404bbf;
-}
-.tel:active {
-  color: #404bbf;
-}
-
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -71,7 +57,7 @@ a:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-nav:active {
+.header-nav:focus {
   color: #404bbf;
 }
 .header-address {
