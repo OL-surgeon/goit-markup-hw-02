@@ -20,7 +20,7 @@ a:hover {
   color: #404bbf;
 }
 
-a:active {
+a:focus {
   text-decoration: underline;
   color: #404bbf;
 }
@@ -71,6 +71,9 @@ a:active {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.header-nav:active {
+  color: #404bbf;
+}
 .header-address {
   font-style: normal;
 }
@@ -98,7 +101,7 @@ a:active {
 .button:hover {
   background-color: #404bbf;
 }
-.button:active {
+.button:focus {
   background-color: #404bbf;
 }
 .third-title {
